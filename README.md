@@ -23,7 +23,7 @@ A PyQt5 desktop application for managing products and retrieving images using Du
    python suply_checker.py
    ```
 
-## Notes
+## Notes 
 
 - This app uses `webdriver-manager` to automatically manage the ChromeDriver.
 - Internet connection is required for image scraping.
